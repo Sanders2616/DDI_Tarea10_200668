@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.ddi_tarea10_200070'
+    namespace 'com.example.ddi_tarea10_200668'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.ddi_tarea10_200070"
+        applicationId "com.example.ddi_tarea10_200668"
         minSdk 30
         targetSdk 33
         versionCode 1
